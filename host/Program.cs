@@ -6,6 +6,7 @@ using static System.Diagnostics.Debug;
 
 using Microsoft.Quantum.Simulation.Core;
 using Microsoft.Quantum.Simulation.Simulators;
+using quantum;
 
 namespace Microsoft.Quantum.Samples
 {
